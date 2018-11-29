@@ -1,0 +1,25 @@
+/* ------------ GLOBAL ------------ */
+.main-container{
+    margin-top: 80px;
+}
+
+
+/* ------------ HOME ------------ */
+.card{
+    border-radius: 0;
+}
+.card-image {
+    display: block;
+    background-size: cover;
+    background-position: top center;
+    background-repeat: no-repeat;
+    position: relative;
+    height: 270px;
+}
+.card-text {
+    position: relative;
+    background: rgba(0, 0, 0, 0.03);
+    width: 100%;
+    padding: 20px;
+    float: left;
+}
